@@ -28,5 +28,7 @@ let isLoggedIn = true
 // unefined datatype
 //symbols datatypes
 
-console.log(typeof undefined);
+console.log(typeof undefined)
+
+console.log(typeof null)
 
